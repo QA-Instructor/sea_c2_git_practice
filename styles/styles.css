@@ -3,6 +3,12 @@ body {
     background-color: blanchedalmond;
     color: darkmagenta;
 }
+
 h2  {
-    color:red;
+    color:darkgreen;
+}
+
+h3  {
+    color: green;
+
 }
